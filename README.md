@@ -1,8 +1,14 @@
-Resources base url: `https://github.com/Khishwe/Common/blob/main/`
+Resources base url: 
+```
+https://github.com/Khishwe/Common/blob/main/`
+```
 
 # Khishwe icon
 
-Base url: `https://github.com/Khishwe/Common/blob/main/Khishwe<specifiers>.png`
+Base url: 
+```
+https://github.com/Khishwe/Common/blob/main/Khishwe<specifiers>.png
+```
 
 |Name|Preview|Specifier|
 |-|-|-|
